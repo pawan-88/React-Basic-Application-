@@ -1,0 +1,15 @@
+.ps-game {
+  /* background-color: rgb(255, 136, 0); */
+  color: red;
+  /* text-align: center; */
+}
+
+.ps-span {
+  font-weight: 800;
+  color: orangered;
+  text-align: center;
+}
+
+.button{
+  float: right;
+}
